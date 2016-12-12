@@ -1,14 +1,15 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("https://www.supercoolbeaches.com/sites/default/files/lanikai-beach-hawaii.jpg");
       background-size: cover;
-      color: white;
+      color:#ff3333;
     }
     .nav {
-      color: white;
+      color: #6666ff;
     }
     h1 {
       font-size: 70px;
+      font-family:'Molle', cursive;
     }
     img {
       margin: 40px 0px 0px 0px;
